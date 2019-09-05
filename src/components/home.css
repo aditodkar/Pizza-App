@@ -1,0 +1,11 @@
+.dropdownContainer {
+    float: left;
+    margin-top: 10px; 
+    margin-left: 10px;
+}
+
+.resetButton {
+    float: left;
+    margin-top: 10px; 
+    margin-left: 5px;
+}
