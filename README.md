@@ -20,6 +20,8 @@
 
 5) Backend runs on `localhost:5000`
 
+# Demo link: https://pizzaapp.netlify.com/
+
 # Screenshots
 
 ![Screenshot_3](https://user-images.githubusercontent.com/16613832/64319507-2b6e9b80-cfda-11e9-8cd9-95e41d7e7fed.png)
