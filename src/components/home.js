@@ -15,7 +15,7 @@ export default class Home extends Component {
     }
 
     componentDidMount(){
-        axios.get(`http://localhost:5000`).then(res => {
+        axios.get(`https://pythonflaskdeploy.herokuapp.com/`).then(res => {
             this.setState({ 
                 data: res.data
             });
