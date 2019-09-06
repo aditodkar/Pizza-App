@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 flask = "*"
 jsonify = "*"
+flask-pymongo = "*"
+flask-cors = "*"
 
 [requires]
 python_version = "3.7"
